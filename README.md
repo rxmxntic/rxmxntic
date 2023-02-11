@@ -1,7 +1,9 @@
+<div align="center">
 
-💌 [Instagram](https://www.instagram.com/onl___young/) 💌 </br>
+### Hi Welcome, I'm Nayoung Choi 👋  
+</br>
+
 🌱 [Basic Studying - in Repl](https://replit.com/@nayoungie7) 🌱
-### Hi Welcome, I'm Nayoung Choi 👋
 
 #### AI Researcher / Data Engineering
 Developers who create beneficial social values   
@@ -36,7 +38,7 @@ Samsung SW *Pro Level*
 🏆 Awards
 |Competition|Prize|Date|
 |------|---|---|
-|Microsoft News Recommendation|World 2nd Prize|Oct 21, 2020|
+|To|be|continued|
 |Kaggle Man/Female Predict Competition|1st|Jan 25, 2019|
 
 
@@ -44,3 +46,5 @@ Samsung SW *Pro Level*
 
 There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality.  
 Please understand.
+ 
+</div>
