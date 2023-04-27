@@ -28,7 +28,7 @@ A developer who thinks, researches, creates, and connects to practical realizati
   [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@baeyuna97)](https://velog.io/@baeyuna97)
 
 
-🏅 Algorithm Gold Level. 
+🏅 Algorithm Bronze Level. 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nayoungie7)](https://solved.ac/nayoungie7/)  
 Programmers - Lv3  
