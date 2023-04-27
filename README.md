@@ -5,7 +5,7 @@
 
 🌱 [Basic Studying - in Repl](https://replit.com/@nayoungie7) 🌱
 
-#### AI Researcher / Data Engineering
+#### AI Researcher / FrontEnd 
 Developers who create beneficial social values   
 A developer who thinks, researches, creates, and connects to practical realization by web
 
