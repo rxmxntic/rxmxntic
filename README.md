@@ -1,21 +1,26 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Nayoung%20Choi&fontSize=80&fontColor=auto)
-
-
 <div align="center">
+ 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=Nayoung%20Choi&fontSize=80&fontColor=ffffff)
 
-### Hi Welcome, I'm Nayoung Choi 👋  
+
+
+
+
+## Hi Welcome, I'm Nayoung Choi 👋  
 </br>
 
 🌱 [Basic Studying - in Repl](https://replit.com/@nayoungie7) 🌱
 
-#### AI Researcher / FrontEnd 
+</br>
+
+#### AI Researcher / BackEnd 
 Developers who create beneficial social values   
 A developer who thinks, researches, creates, and connects to practical realization by web
 
 
 🛠️ Stacks
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> 
 
 💪🏼 Tools 
 
@@ -34,7 +39,7 @@ A developer who thinks, researches, creates, and connects to practical realizati
 🏅 Algorithm Bronze Level. 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nayoungie7)](https://solved.ac/nayoungie7/)  
-Programmers - Lv3  
+Programmers - Lv1
 Samsung SW *Pro Level*
 
 
