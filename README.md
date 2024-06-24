@@ -4,10 +4,6 @@
 
 
 
-## Hi Welcome, I'm Nayoung Choi 👋  
-</br>
-</br>
-
 
 #### 🌱 BackEnd Developer 🌱
 Developers who create beneficial social values   
