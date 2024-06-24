@@ -4,10 +4,10 @@
 
 
 
-
 ## Hi Welcome, I'm Nayoung Choi 👋  
 </br>
 </br>
+
 
 #### 🌱 BackEnd Developer 🌱
 Developers who create beneficial social values   
@@ -40,9 +40,8 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 </br>
 </br>
-
-
 </br>
+<hr>
 </br>
 </br>
 
@@ -55,15 +54,15 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 </br>
 </br>
+</br>
 
-🏆 Awards
-|Competition|Prize|Date|
-|------|---|---|
-|To|be|continued|
-|Kaggle Man/Female Predict Competition|1st|Jan 25, 2019|
+🏆 <b>Achievement</b>
 
+✏️ KT Aivle School 3rd AI Track - (2023.01.31 ~ 2023.07.18)
 
 
+</br>
+</br>
 
  
 </div>
