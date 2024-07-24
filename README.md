@@ -6,9 +6,8 @@
 
 
 ### 🌱 BackEnd Developer 🌱
-Developers who create beneficial social values   
-A developer who thinks, researches, creates, and connects to practical realization by web
 
+끊임없이 도전하고 성장하리라
 </br>
 </br>
 
