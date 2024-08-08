@@ -8,7 +8,7 @@
 
 </br>
 
-> 끊임없이 도전하고 성장하는 개발자 <b>린다(Linda)</b>입니다!
+> 끊임없이 도전하고 성장하는 개발자 <b>한나(HannaH)</b>입니다!
 
 </br>
 
@@ -71,11 +71,6 @@
 </br>
 
 ✔️ <b>  Programmers - Lv2 </b>
-
-✔️ <b>  Baekjoon Online Judge</b>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nayoungie7)](https://solved.ac/nayoungie7/)  
-
 
 </br>
 </br>
